@@ -1,1 +1,4 @@
-hello.txt
+*.txt
+!hello.txt
+ignored/hy.js
+
